@@ -86,7 +86,6 @@ export const createMcpServerTool = {
         this.createGitIgnore(projectPath),
         this.createReadme(projectPath, projectName, description),
         this.createSourceFiles(projectPath, projectName, shouldIncludeResources),
-        this.createEditorConfigs(projectPath),
       ]);
 
       const nextSteps = createSubdirectory 
@@ -265,18 +264,37 @@ npm run dev
 
 ## MCP Configuration
 
-Add to your VS Code/Cursor settings:
+### VS Code
+
+Add to your VS Code settings (\`.vscode/settings.json\`):
 
 \`\`\`json
 {
   "mcp.servers": {
     "${name}": {
       "command": "node",
-      "args": ["path/to/dist/index.js"]
+      "args": ["/absolute/path/to/${name}/dist/index.js"]
     }
   }
 }
 \`\`\`
+
+### Cursor
+
+Add to your Cursor settings (\`.cursor/settings.json\`):
+
+\`\`\`json
+{
+  "mcp.servers": {
+    "${name}": {
+      "command": "node",
+      "args": ["/absolute/path/to/${name}/dist/index.js"]
+    }
+  }
+}
+\`\`\`
+
+**Note:** Replace \`/absolute/path/to/${name}\` with the actual absolute path to this project directory.
 
 ## Development
 
@@ -528,38 +546,6 @@ This demonstrates how to implement MCP resources in your server.\`;
 
       await fs.writeFile(path.join(resourcesPath, 'example-resource.ts'), exampleResourceContent);
     }
-  },
-
-  async createEditorConfigs(projectPath: string): Promise<void> {
-    // VS Code settings
-    const vscodeDir = path.join(projectPath, '.vscode');
-    await fs.mkdir(vscodeDir, { recursive: true });
-    
-    const vscodeSettings = {
-      'typescript.preferences.moduleSpecifier': 'relative',
-      'typescript.suggest.autoImports': true,
-      'editor.codeActionsOnSave': {
-        'source.organizeImports': true
-      },
-      'files.exclude': {
-        'dist': true,
-        'node_modules': true
-      }
-    };
-
-    await fs.writeFile(
-      path.join(vscodeDir, 'settings.json'),
-      JSON.stringify(vscodeSettings, null, 2)
-    );
-
-    // Cursor settings (similar to VS Code)
-    const cursorDir = path.join(projectPath, '.cursor');
-    await fs.mkdir(cursorDir, { recursive: true });
-    
-    await fs.writeFile(
-      path.join(cursorDir, 'settings.json'),
-      JSON.stringify(vscodeSettings, null, 2)
-    );
   },
 
   async analyzeFilesForCapabilities(filePaths: string[]): Promise<{needsResources: boolean; summary: string}> {
