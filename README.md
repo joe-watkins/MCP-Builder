@@ -4,7 +4,7 @@ A minimalist MCP server that scaffolds basic MCP server projects for VS Code and
 
 ---
 
-## 👤 For Users
+## For Users
 
 ### Installation
 
@@ -57,7 +57,7 @@ Once configured, use the `create_mcp_server` tool to generate new MCP server pro
 - **analyzeFiles** (optional): File paths to analyze for auto-determining capabilities
 - **createSubdirectory** (optional): Create project in new subdirectory (default: false)
 
-### 🧠 Intelligent File Analysis
+### Intelligent File Analysis
 
 The builder can analyze your files to automatically determine what capabilities to include:
 
@@ -74,7 +74,7 @@ The builder can analyze your files to automatically determine what capabilities 
 - Directories containing data files
 - Files with structured content (JSON/YAML patterns)
 
-### 📁 Directory Behavior
+### Directory Behavior
 
 **Default (Current Directory):**
 ```json
@@ -97,14 +97,14 @@ The builder can analyze your files to automatically determine what capabilities 
 
 This project includes a fun example JSON dataset to help you create your first MCP server: **Ferengi Rules of Acquisition** from Star Trek! This is perfect for learning how to build an MCP server that serves data.
 
-### 📦 What's Included
+### What's Included
 
 The `docs/ferengi-rules-of-acquisition.json` file contains 200+ Rules of Acquisition—the sacred commercial guidelines of the Ferengi species. Each rule includes:
 - Rule number
 - The rule text
 - Source (episode, novel, or game)
 
-### 🚀 Create Your First Server
+### Create Your First Server
 
 **Step 1: Copy the example data to a new folder**
 
@@ -120,12 +120,12 @@ In VS Code/Cursor, simply tell your AI assistant:
 > "Create an MCP server in the ferengi-rules-server folder that provides access to Ferengi Rules of Acquisition. Analyze the ferengi-rules-of-acquisition.json file in that directory."
 
 That's it! Your AI assistant will use the `create_mcp_server` tool to:
-- ✅ Detect the JSON data file
-- ✅ Automatically include the Resources capability
-- ✅ Generate a complete MCP server project with all the scaffolding
-- ✅ Set up TypeScript, build tools, and development workflow
+- Detect the JSON data file
+- Automatically include the Resources capability
+- Generate a complete MCP server project with all the scaffolding
+- Set up TypeScript, build tools, and development workflow
 
-### 💡 Ideas for Your Server
+### Ideas for Your Server
 
 Once you have the basic server running, you could add:
 
@@ -165,7 +165,7 @@ This example demonstrates how any JSON data source can become an MCP server that
 
 ---
 
-## 🛠️ For Developers
+## For Developers
 
 ### Development Setup
 
