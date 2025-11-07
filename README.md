@@ -2,6 +2,10 @@
 
 A minimalist MCP server that scaffolds basic MCP server projects for VS Code and Cursor.
 
+<a href="https://glama.ai/mcp/servers/@joe-watkins/MCP-Builder">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@joe-watkins/MCP-Builder/badge" alt="Server Builder MCP server" />
+</a>
+
 ## Quick Start
 
 ```bash
