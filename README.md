@@ -97,6 +97,9 @@ The builder can analyze your files to automatically determine what capabilities 
 
 This project includes a fun example JSON dataset to help you create your first MCP server: **Ferengi Rules of Acquisition** from Star Trek! This is perfect for learning how to build an MCP server that serves data.
 
+Once you get the MCP Server Builder set up, you can use the `create_mcp_server` tool to generate a server that provides access to this dataset - or just use a prompt. The builder will analyze the JSON file and automatically include the Resources capability, making it easy to serve the data to your AI assistant.
+
+
 ### What's Included
 
 The `docs/ferengi-rules-of-acquisition.json` file contains 200+ Rules of Acquisition—the sacred commercial guidelines of the Ferengi species. Each rule includes:
