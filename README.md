@@ -2,33 +2,48 @@
 
 A minimalist MCP server that scaffolds basic MCP server projects for VS Code and Cursor.
 
-## Quick Start
+---
+
+## 👤 For Users
+
+### Installation
 
 ```bash
+git clone https://github.com/joe-watkins/MCP-Builder.git
+cd MCP-Builder
 npm install
-npm run dev
+npm run build
 ```
 
-## Scripts
+### MCP Configuration
 
-- `npm run build` - Compile TypeScript
-- `npm run dev` - Development mode with hot reload
-- `npm start` - Run compiled server
+Add this to your editor's MCP settings:
 
-## MCP Configuration
-
-Add to your VS Code/Cursor settings:
-
+**VS Code** (`.vscode/settings.json`):
 ```json
 {
   "mcp.servers": {
     "mcp-server-builder": {
       "command": "node",
-      "args": ["path/to/dist/index.js"]
+      "args": ["/absolute/path/to/MCP-Builder/dist/index.js"]
     }
   }
 }
 ```
+
+**Cursor** (`.cursor/settings.json`):
+```json
+{
+  "mcp.servers": {
+    "mcp-server-builder": {
+      "command": "node",
+      "args": ["/absolute/path/to/MCP-Builder/dist/index.js"]
+    }
+  }
+}
+```
+
+**Note:** Replace `/absolute/path/to/MCP-Builder` with the actual absolute path where you cloned this repository.
 
 ## Usage
 
@@ -139,15 +154,48 @@ Once you have the basic server running, you could add:
 
 This example demonstrates how any JSON data source can become an MCP server that AI assistants can query and use!
 
-## Generated Project Features
+### Generated Project Features
 
 - TypeScript with strict configuration
 - MCP SDK integration with best practices
 - Example tool implementation
-- VS Code and Cursor editor configurations
+- Optional resources capability (auto-detected or manual)
 - Development workflow with hot reload
 - Comprehensive build setup
 
-## Development
+---
 
-The generated projects include everything needed to start building MCP servers immediately.
+## 🛠️ For Developers
+
+### Development Setup
+
+```bash
+git clone https://github.com/joe-watkins/MCP-Builder.git
+cd MCP-Builder
+npm install
+npm run dev
+```
+
+### Scripts
+
+- `npm run build` - Compile TypeScript
+- `npm run dev` - Development mode with hot reload
+- `npm start` - Run compiled server
+
+### Project Structure
+
+```
+src/
+  ├── index.ts           # Entry point
+  ├── server.ts          # Main server implementation
+  └── tools/
+      └── create-mcp-server.ts  # Server generation tool
+```
+
+### Contributing
+
+The generated projects include everything needed to start building MCP servers immediately. When making changes to the builder:
+
+1. Test with `npm run dev` for hot reload
+2. Build with `npm run build`
+3. Test the generated servers to ensure they work correctly
