@@ -1,0 +1,784 @@
+{
+  "Ferengi_Rules_of_Acquisition": [
+    {
+      "Number": "0",
+      "Rule": "What the Nagus wants, we acquire.",
+      "Source": "ST video game: Star Trek Online"
+    },
+    {
+      "Number": "1",
+      "Rule": "Once you have their money... you never give it back.",
+      "Source": "DS9 episode: \"The Nagus\", PRD episode: \"First Con-tact\""
+    },
+    {
+      "Number": "2",
+      "Rule": "The best deal is the one that brings the most profit.",
+      "Source": "DS9 novel: The 34th Rule"
+    },
+    {
+      "Number": "2",
+      "Rule": "Money is everything.",
+      "Source": "ST - Strange New Worlds 9 short story: \"The Last Tree on Ferenginar: A Ferengi Fable From the Future\""
+    },
+    {
+      "Number": "3",
+      "Rule": "Never spend more for an acquisition than you have to.",
+      "Source": "DS9 episode: \"The Maquis, Part II\""
+    },
+    {
+      "Number": "4",
+      "Rule": "Sedition and treason are always profitable.",
+      "Source": "ST video game: Star Trek Online"
+    },
+    {
+      "Number": "5",
+      "Rule": "Always exaggerate your estimates.",
+      "Source": "SCE eBook: Cold Fusion"
+    },
+    {
+      "Number": "6",
+      "Rule": "Never allow family law stand in the way of opportunity.",
+      "Source": "DS9 episode: \"The Nagus\""
+    },
+    {
+      "Number": "7",
+      "Rule": "Keep your ears open.",
+      "Source": "DS9 episode: \"In the Hands of the Prophets\""
+    },
+    {
+      "Number": "8",
+      "Rule": "Small print leads to large risk.",
+      "Source": "DS9 reference: The Ferengi Rules of Acquisition"
+    },
+    {
+      "Number": "9",
+      "Rule": "Opportunity plus instinct equals profit.",
+      "Source": "DS9 episode: \"The Storyteller\""
+    },
+    {
+      "Number": "10",
+      "Rule": "Greed is eternal.",
+      "Source": "DS9 episode: \"Prophet Motive\""
+    },
+    {
+      "Number": "13",
+      "Rule": "Anything worth doing is worth doing for money.",
+      "Source": "Legends of the Ferengi (DS9 novel)"
+    },
+    {
+      "Number": "14",
+      "Rule": "Sometimes the quickest way to find profits is to let them find you.",
+      "Source": "Fortune of War (TTN novel)"
+    },
+    {
+      "Number": "15",
+      "Rule": "Dead men close no deals.",
+      "Source": "Demons of Air and Darkness (DS9 novel)"
+    },
+    {
+      "Number": "16",
+      "Rule": "A deal is a deal... until a better one comes along.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "17",
+      "Rule": "A contract is a contract is a contract... but only between Ferengi",
+      "Source": "DS9 episode: \"Body Parts\""
+    },
+    {
+      "Number": "18",
+      "Rule": "A Ferengi without profit is no Ferengi at all.",
+      "Source": "DS9 episode: \"Heart of Stone\", DS9 - The Dog of War comic: \"Issue 3\""
+    },
+    {
+      "Number": "19",
+      "Rule": "Satisfaction is not guaranteed.",
+      "Source": "Legends of the Ferengi (DS9 novel)"
+    },
+    {
+      "Number": "20",
+      "Rule": "He who dives under the table today lives to profit tomorrow.",
+      "Source": "Ferenginar: Satisfaction is Not Guaranteed (DS9 novella)"
+    },
+    {
+      "Number": "21",
+      "Rule": "Never place friendship above profit.",
+      "Source": "DS9 episode: \"Rules of Acquisition\", PRD episode: \"First Con-tact\""
+    },
+    {
+      "Number": "22",
+      "Rule": "A wise man can hear profit in the wind.",
+      "Source": "DS9 episode: \"Rules of Acquisition\""
+    },
+    {
+      "Number": "23",
+      "Rule": "Nothing is more important than your health... except for your money.",
+      "Source": "ENT episode: \"Acquisition\""
+    },
+    {
+      "Number": "27",
+      "Rule": "There's nothing more dangerous than an honest businessman.",
+      "Source": "Legends of the Ferengi (DS9 novel)"
+    },
+    {
+      "Number": "29",
+      "Rule": "What's in it for me?",
+      "Source": "Highest Score (DS9 young reader novel)"
+    },
+    {
+      "Number": "30",
+      "Rule": "\"Confidentiality equals profit.\"",
+      "Source": "DS9 - The Badlands novel: Part IV"
+    },
+    {
+      "Number": "31",
+      "Rule": "Never make fun of a Ferengi's mother. Insult something he cares about instead.",
+      "Source": "DS9 episode: \"The Siege\", Elite Force II"
+    },
+    {
+      "Number": "33",
+      "Rule": "It never hurts to suck up to the boss.",
+      "Source": "DS9 episode: \"Rules of Acquisition\""
+    },
+    {
+      "Number": "34",
+      "Rule": "War is good for business.",
+      "Source": "DS9 episode: \"Destiny\"; The 34th Rule (DS9 novel)"
+    },
+    {
+      "Number": "35",
+      "Rule": "Peace is good for business.",
+      "Source": ""
+    },
+    {
+      "Number": "37",
+      "Rule": "The early investor reaps the most interest.",
+      "Source": "ST novella: Reservoir Ferengi"
+    },
+    {
+      "Number": "39",
+      "Rule": "Don't tell customers more than they need to know.",
+      "Source": "Ascendance (DS9 novel)"
+    },
+    {
+      "Number": "40",
+      "Rule": "She can touch your lobes but never your latinum.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "41",
+      "Rule": "Profit is its own reward.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "43",
+      "Rule": "Feed your greed, but not enough to choke it.",
+      "Source": "The Buried Age (TNG novel)"
+    },
+    {
+      "Number": "44",
+      "Rule": "Never confuse wisdom with luck.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "45",
+      "Rule": "Expand or die.",
+      "Source": "ENT episode: \"Acquisition\""
+    },
+    {
+      "Number": "47",
+      "Rule": "Don't trust a man wearing a better suit than your own.",
+      "Source": "DS9 episode: \"Rivals\""
+    },
+    {
+      "Number": "48",
+      "Rule": "The bigger the smile, the sharper the knife.",
+      "Source": "DS9 episode: \"Rules of Acquisition\""
+    },
+    {
+      "Number": "52",
+      "Rule": "Never ask when you can take.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "53",
+      "Rule": "Never trust anybody taller than you.",
+      "Source": "Mission Gamma: Twilight (DS9 novel)"
+    },
+    {
+      "Number": "54",
+      "Rule": "Rate divided by time equals profit. (Also known as \"The Velocity of Wealth.\")",
+      "Source": "Raise the Dawn (Typhon Pact novel)"
+    },
+    {
+      "Number": "55",
+      "Rule": "Take joy from profit, and profit from joy.",
+      "Source": "Worlds of Deep Space Nine: Bajor: Fragments and Omens (DS9 novel)"
+    },
+    {
+      "Number": "57",
+      "Rule": "Good customers are as rare as latinum—treasure them.",
+      "Source": "DS9 episode: \"Armageddon Game\""
+    },
+    {
+      "Number": "58",
+      "Rule": "There is no substitute for success.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "59",
+      "Rule": "Free advice is seldom cheap.",
+      "Source": "DS9 episode: \"Rules of Acquisition\""
+    },
+    {
+      "Number": "60",
+      "Rule": "Keep your lies consistent.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "62",
+      "Rule": "The riskier the road, the greater the profit.",
+      "Source": "DS9 episode: \"Rules of Acquisition\""
+    },
+    {
+      "Number": "63",
+      "Rule": "Work is the best therapy-at least for your employees.",
+      "Source": "\"Over a Torrent Sea\" (TTN novel)"
+    },
+    {
+      "Number": "65",
+      "Rule": "Win or lose, there's always Hupyrian beetle snuff",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "66",
+      "Rule": "Someone's always got bigger ears.",
+      "Source": "What Happens Now (Star Trek: The Last Generation #3, TNG comic)"
+    },
+    {
+      "Number": "68",
+      "Rule": "Risk doesn't always equal reward.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "69",
+      "Rule": "Ferengi are not responsible for the stupidity of other races.",
+      "Source": "Balance of Power (TNG novel)"
+    },
+    {
+      "Number": "74",
+      "Rule": "Knowledge equals profit.",
+      "Source": "VOY episode: \"Inside Man\""
+    },
+    {
+      "Number": "75",
+      "Rule": "Home is where the heart is... but the stars are made of latinum.",
+      "Source": "DS9 episode: \"Civil Defense\""
+    },
+    {
+      "Number": "76",
+      "Rule": "Every once in a while, declare peace. It confuses the hell out of your enemies.",
+      "Source": "DS9 episode: \"The Homecoming\""
+    },
+    {
+      "Number": "77",
+      "Rule": "If you break it, I'll charge you for it!",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "79",
+      "Rule": "Beware of the Vulcan greed for knowledge.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "82",
+      "Rule": "The flimsier the product, the higher the price.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "85",
+      "Rule": "Never let the competition know what you're thinking.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "87",
+      "Rule": "Learn the customer's weaknesses, so that you can better take advantage of him.",
+      "Source": "Highest Score (DS9 novel)"
+    },
+    {
+      "Number": "88",
+      "Rule": "It ain't over 'til its over.",
+      "Source": "Ferenginar: Satisfaction is Not Guaranteed (DS9 novella)"
+    },
+    {
+      "Number": "88",
+      "Rule": "Vengeance will cost you everything.",
+      "Source": "The Poisoned Chalice (DS9 novel)"
+    },
+    {
+      "Number": "89",
+      "Rule": "Ask not what your profits can do for you, but what you can do for your profits.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "89",
+      "Rule": "[It is] better to lose some profit and live than lose all profit and die.",
+      "Source": "\"Best Tools Available\" (DS9 short story)"
+    },
+    {
+      "Number": "91",
+      "Rule": "Your boss is only worth what he pays you.",
+      "Source": "\"Old Friends, New Planets\""
+    },
+    {
+      "Number": "92",
+      "Rule": "There are many paths to profit.",
+      "Source": "Highest Score (DS9 novel)"
+    },
+    {
+      "Number": "94",
+      "Rule": "Females and finances don't mix.",
+      "Source": "DS9 episode: \"Ferengi Love Songs\""
+    },
+    {
+      "Number": "95",
+      "Rule": "Expand or die.",
+      "Source": "Legends of the Ferengi (DS9 novel), VOY episode: \"False Profits\""
+    },
+    {
+      "Number": "97",
+      "Rule": "Enough... is never enough.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "98",
+      "Rule": "Every man has his price.",
+      "Source": "DS9 episode: \"In the Pale Moonlight\""
+    },
+    {
+      "Number": "98",
+      "Rule": "If you can't take it with you, don't go.",
+      "Source": "I, Q (DS9 novel)"
+    },
+    {
+      "Number": "99",
+      "Rule": "Trust is the biggest liability of all.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "100",
+      "Rule": "When it's good for business, tell the truth.",
+      "Source": "Ascendance (DS9 novel)"
+    },
+    {
+      "Number": "101",
+      "Rule": "Profit trumps emotion.",
+      "Source": "The Long Mirage (DS9 novel)"
+    },
+    {
+      "Number": "102",
+      "Rule": "Nature decays, but latinum lasts forever.",
+      "Source": "DS9 episode: \"The Jem'Hadar\""
+    },
+    {
+      "Number": "103",
+      "Rule": "Sleep can interfere with opportunity.",
+      "Source": "DS9 episode: \"Rules of Acquisition\""
+    },
+    {
+      "Number": "104",
+      "Rule": "Faith moves mountains... of inventory.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "106",
+      "Rule": "There is no honor in poverty.",
+      "Source": "Sacraments of Fire (DS9 novel)"
+    },
+    {
+      "Number": "108",
+      "Rule": "Hope doesn't keep the lights on.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "108",
+      "Rule": "A woman wearing clothes is like a man without any profits.",
+      "Source": "DS9 Novel"
+    },
+    {
+      "Number": "109",
+      "Rule": "Dignity and an empty sack is worth the sack.",
+      "Source": "DS9 episode: \"Rivals\""
+    },
+    {
+      "Number": "110",
+      "Rule": "Exploitation begins at home.",
+      "Source": "VOY episode: \"False Profits\""
+    },
+    {
+      "Number": "111",
+      "Rule": "Treat people in your debt like family... exploit them.",
+      "Source": "DS9 episode: \"Past Tense, Part I\""
+    },
+    {
+      "Number": "112",
+      "Rule": "Never have sex with the boss' sister.",
+      "Source": "DS9 episode: \"Playing God\""
+    },
+    {
+      "Number": "113",
+      "Rule": "Always have sex with the boss.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "117",
+      "Rule": "You can't free a fish from water.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "121",
+      "Rule": "Everything is for sale, even friendship.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "122",
+      "Rule": "Never Sleep with the bosses sister",
+      "Source": "\"Playing God\" (DS9 episode)"
+    },
+    {
+      "Number": "123",
+      "Rule": "Even a blind man can recognize the glow of Latinum.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "125",
+      "Rule": "You can't make a deal if you're dead.",
+      "Source": "\"The Siege of AR-558\" (DS9 episode)"
+    },
+    {
+      "Number": "135",
+      "Rule": "Listen to secrets, but never repeat them.",
+      "Source": "Ascendance (DS9 novel)"
+    },
+    {
+      "Number": "139",
+      "Rule": "Wives serve, brothers inherit.",
+      "Source": "\"Necessary Evil\" (DS9 episode)"
+    },
+    {
+      "Number": "141",
+      "Rule": "Only fools pay retail.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "144",
+      "Rule": "There's nothing wrong with charity... as long as it winds up in your pocket.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "147",
+      "Rule": "People love the bartender.",
+      "Source": "Fearful Symmetry (DS9 novel)"
+    },
+    {
+      "Number": "151",
+      "Rule": "Even when you're a customer, sell yourself.",
+      "Source": "The Long Mirage (DS9 novel)"
+    },
+    {
+      "Number": "153",
+      "Rule": "Sell the sizzle, not the steak.",
+      "Source": "\"Deep Space Mine\" (DS9 comic)"
+    },
+    {
+      "Number": "162",
+      "Rule": "Even in the worst of times someone turns a profit.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book), DS9 video game: Harbinger"
+    },
+    {
+      "Number": "168",
+      "Rule": "Whisper your way to success.",
+      "Source": "\"Treachery, Faith, and the Great River\" (DS9 episode)"
+    },
+    {
+      "Number": "177",
+      "Rule": "Know your enemies... but do business with them always.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "181",
+      "Rule": "Not even dishonesty can tarnish the shine of profit.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "183",
+      "Rule": "When life hands you ungaberries, make detergent.",
+      "Source": "Hollow Men (DS9 novel)"
+    },
+    {
+      "Number": "184",
+      "Rule": "A Ferengi waits to bid until his opponents have exhausted themselves.",
+      "Source": "Balance of Power (TNG novel)"
+    },
+    {
+      "Number": "188",
+      "Rule": "Not even dishonesty can tarnish the shine of profit.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "189",
+      "Rule": "Let others keep their reputation. You keep their money.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "190",
+      "Rule": "Hear all, trust nothing.",
+      "Source": "DS9 episode: \"Call to Arms\""
+    },
+    {
+      "Number": "192",
+      "Rule": "Never cheat a Klingon... unless you're sure you can get away with it.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "193",
+      "Rule": "Trouble comes in threes.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "193",
+      "Rule": "It's never too late to fire the staff.",
+      "Source": "Cathedral (DS9 novel)"
+    },
+    {
+      "Number": "194",
+      "Rule": "It's always good business to know about new customers before they walk in your door.",
+      "Source": "\"Whispers\" (DS9 episode)"
+    },
+    {
+      "Number": "199",
+      "Rule": "Location, location, location.",
+      "Source": "The Soul Key (DS9 novel)"
+    },
+    {
+      "Number": "200",
+      "Rule": "A Ferengi chooses no side but his own.",
+      "Source": "(DS9 novel: Ferenginar: Satisfaction is Not Guaranteed)"
+    },
+    {
+      "Number": "202",
+      "Rule": "The justification for profit is profit.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "203",
+      "Rule": "New customers are like razor-toothed gree worms. They can be succulent, but sometimes they bite back.",
+      "Source": "DS9 episode: \"Little Green Men\""
+    },
+    {
+      "Number": "207",
+      "Rule": "A Tribble Always Means Customer Satisfaction",
+      "Source": "Adventures RPG: Tribble Player Character Supplement"
+    },
+    {
+      "Number": "208",
+      "Rule": "Sometimes, the only thing more dangerous than a question is an answer.",
+      "Source": "DS9 episode: \"Ferengi Love Songs\""
+    },
+    {
+      "Number": "211",
+      "Rule": "Employees are the rungs on the ladder of success. Don't hesitate to step on them.",
+      "Source": "DS9 episode: \"Bar Association\""
+    },
+    {
+      "Number": "212",
+      "Rule": "A good lie is easier to believe than the truth.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "214",
+      "Rule": "Never begin a (business) negotiation on an empty stomach.",
+      "Source": "DS9 episode: \"The Maquis, Part I\""
+    },
+    {
+      "Number": "216",
+      "Rule": "Never gamble with a telepath.",
+      "Source": "DS9 novel: The Laertian Gamble"
+    },
+    {
+      "Number": "217",
+      "Rule": "Always know what you're buying.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "217",
+      "Rule": "You can't free a fish from water.",
+      "Source": "\"Past Tense, Part I\" (DS9 episode)"
+    },
+    {
+      "Number": "218",
+      "Rule": "Sometimes what you get free costs entirely too much.",
+      "Source": "Baby on Board (DS9 Malibu Comics)"
+    },
+    {
+      "Number": "219",
+      "Rule": "Possession is eleven-tenths of the law!",
+      "Source": "TNG novel: Balance of Power"
+    },
+    {
+      "Number": "223",
+      "Rule": "Beware the man who doesn't take time for Oo-mox.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "227",
+      "Rule": "If that's what's written, then that's what's written.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "229",
+      "Rule": "Latinum lasts longer than lust.",
+      "Source": "DS9 episode: \"Ferengi Love Songs\""
+    },
+    {
+      "Number": "235",
+      "Rule": "Duck; death is tall.",
+      "Source": "Mission Gamma: Twilight (DS9 novel)"
+    },
+    {
+      "Number": "236",
+      "Rule": "You can't buy fate.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "239",
+      "Rule": "Never be afraid to mislabel a product.",
+      "Source": "DS9 episode: \"Body Parts\""
+    },
+    {
+      "Number": "240",
+      "Rule": "Time, like latinum, is a highly limited commodity.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "242",
+      "Rule": "More is good... all is better.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "243",
+      "Rule": "Always leave yourself an out.",
+      "Source": "Sacraments of Fire (DS9 novel)"
+    },
+    {
+      "Number": "248",
+      "Rule": "The definition of insanity is trying the same failed scheme & expecting different results",
+      "Source": "Department of Temporal Investigations 3: Shield of the Gods (novel) pg 11"
+    },
+    {
+      "Number": "255",
+      "Rule": "A wife is luxury... a smart accountant a neccessity.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "257",
+      "Rule": "When the messenger comes to appropriate your profits, kill the messenger.",
+      "Source": "False Profits (VOY episode)"
+    },
+    {
+      "Number": "261",
+      "Rule": "A wealthy man can afford anything except a conscience.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "263",
+      "Rule": "Never allow doubt to tarnish your lust for latinum.",
+      "Source": "DS9 episode: \"Bar Association\""
+    },
+    {
+      "Number": "266",
+      "Rule": "When in doubt, lie.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "267",
+      "Rule": "If you believe it, they believe it.",
+      "Source": "Taking Wing (DS9 novel)"
+    },
+    {
+      "Number": "272",
+      "Rule": "Always inspect the merchandise before making a deal.",
+      "Source": "Star Trek Online"
+    },
+    {
+      "Number": "280",
+      "Rule": "If it ain't broke, don't fix it.",
+      "Source": "DS9 novel: Ferenginar: Satisfaction is Not Guaranteed"
+    },
+    {
+      "Number": "284",
+      "Rule": "Deep down, everyone's a Ferengi.",
+      "Source": "The Ferengi Rules of Acquisition (DS9 reference book)"
+    },
+    {
+      "Number": "285",
+      "Rule": "No good deed ever goes unpunished.",
+      "Source": "DS9 episode: \"The Collaborator\""
+    },
+    {
+      "Number": "286",
+      "Rule": "When Morn leaves, it's all over.",
+      "Source": "DS9 Episode: \"The House of Quark\""
+    },
+    {
+      "Number": "287",
+      "Rule": "Always get somebody else to do the lifting.",
+      "Source": "\"N-Vector\" (DS9 comic)"
+    },
+    {
+      "Number": "288",
+      "Rule": "Never get into anything that you can't get out of.",
+      "Source": "\"N-Vector\" (DS9 comic)"
+    },
+    {
+      "Number": "289",
+      "Rule": "A man is only worth the sum of his possessions.",
+      "Source": "\"Acquisition\" (ENT episode)"
+    },
+    {
+      "Number": "290",
+      "Rule": "An angry man is an enemy, and a satisfied man is an ally.",
+      "Source": "Antimatter (DS9 novel)"
+    },
+    {
+      "Number": "291",
+      "Rule": "The less employees know about the cash flow, the smaller the share they can demand.",
+      "Source": "Betrayal (DS9 novel)"
+    },
+    {
+      "Number": "292",
+      "Rule": "Only a fool passes up a business opportunity.",
+      "Source": "\"Elite Force II\""
+    },
+    {
+      "Number": "293",
+      "Rule": "The more time they take deciding, the more money they will spend.",
+      "Source": "Stowaways (DS9 novel)"
+    },
+    {
+      "Number": "294",
+      "Rule": "A bargain usually isn't.",
+      "Source": "The Pet (DS9 novel)"
+    },
+    {
+      "Number": "299",
+      "Rule": "Whenever you exploit someone, it never hurts to thank them...That way it's easier to exploit them the next time.",
+      "Source": "Star Trek Voyager \"False Profits\""
+    },
+    {
+      "Number": "431",
+      "Rule": "When the shooting starts, let the mercenaries handle it!",
+      "Source": "STO mission: \"Echoes of Light\""
+    }
+  ]
+}
