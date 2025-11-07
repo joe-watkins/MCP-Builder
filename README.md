@@ -17,9 +17,9 @@ npm run build
 
 ### MCP Configuration
 
-Add this to your editor's MCP settings:
+Add this to your editor's MCP settings configuration files:
 
-**VS Code** (`.vscode/settings.json`):
+**VS Code**:
 ```json
 {
   "mcp.servers": {
@@ -31,7 +31,7 @@ Add this to your editor's MCP settings:
 }
 ```
 
-**Cursor** (`.cursor/settings.json`):
+**Cursor**:
 ```json
 {
   "mcp.servers": {
