@@ -1,0 +1,11 @@
+{
+  "typescript.preferences.moduleSpecifier": "relative",
+  "typescript.suggest.autoImports": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "files.exclude": {
+    "dist": true,
+    "node_modules": true
+  }
+}
